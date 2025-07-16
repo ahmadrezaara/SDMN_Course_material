@@ -50,4 +50,3 @@ Now `br1` and `br2` each have a local gateway IP.
    ```
 
    Each container now sends off‑subnet packets to the host’s bridge IP.
-````
