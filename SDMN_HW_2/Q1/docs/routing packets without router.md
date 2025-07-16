@@ -26,7 +26,6 @@ In this scenario, rather than dedicating a container or namespace to route betwe
    ip addr add 10.10.0.1/24 dev br2
    ```
 
-````
 
 Now `br1` and `br2` each have a local gateway IP.
 
