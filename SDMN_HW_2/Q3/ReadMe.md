@@ -139,11 +139,3 @@ Content-Length: 20
 docker rm -f mystatus
 docker image rm status-api:latest
 ```
-
----
-
-**Deliverables fulfilled:**
-
-- ✔️ **`app.py`** implements GET/POST on `/api/v1/status` with correct JSON bodies and HTTP codes
-- ✔️ **`Dockerfile`** builds a working image exposing port 8000
-- ✔️ **Demonstrated** building, running, and testing the containerized service in this README
